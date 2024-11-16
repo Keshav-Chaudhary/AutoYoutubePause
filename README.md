@@ -40,7 +40,28 @@ It looks like you're sharing a Chrome extension project for automatically pausin
    - The extension will automatically pause any YouTube videos when you switch tabs or when the tab containing YouTube loses focus.
    - No further action is required once installed.
 
-### **Additional Features**:
-This extension helps conserve computer resources and improve focus by ensuring that YouTube videos don’t continue playing in the background when you’re not watching them.
+Certainly! Here's a more formal and concise version of the **future updates** for the **YouTube Auto Pause Chrome Extension**:
+
+---
+
+### **Planned Future Updates**:
+
+1. **Customizable Pause Delay**: Allow users to adjust the delay before pausing a video when switching tabs.
+2. **Whitelist Feature**: Enable users to exclude specific websites or YouTube channels from auto-pausing.
+3. **Pause on Window Minimize**: Pause videos when the browser window is minimized or loses focus.
+4. **Instant Video Resume**: Provide an option to instantly resume video playback upon returning to the tab.
+5. **Pause on Focus Loss**: Pause videos when the entire browser window loses focus (e.g., when switching to another application).
+6. **Keyboard Shortcuts**: Introduce customizable keyboard shortcuts for manual video pause and resume.
+7. **Support for Multiple Videos**: Ensure all videos within a tab are paused when the tab becomes inactive.
+8. **Improved Extension Compatibility**: Enhance compatibility with other popular video-related extensions.
+9. **Dark Mode Support**: Implement dark mode compatibility for a consistent user experience.
+10. **Mobile Device Support**: Extend functionality to Chrome on Android devices.
+11. **Usage Analytics**: Introduce an optional feature for users to send anonymous usage data to improve the extension.
+
+---
+
+These updates aim to enhance the functionality, flexibility, and user experience of the extension across different platforms and use cases.
 
 If you need any adjustments or have further questions about using or customizing the extension, feel free to ask!
+
+
