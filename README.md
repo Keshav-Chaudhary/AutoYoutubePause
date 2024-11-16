@@ -11,8 +11,7 @@ This Chrome extension automatically pauses YouTube videos when you switch tabs o
 1. Clone or download the repository.
 2. Go to `chrome://extensions/`, enable **Developer mode**, and click **Load unpacked**.
 3. Select the folder containing the extension files to install it.
-It looks like you're sharing a Chrome extension project for automatically pausing YouTube videos when the tab is inactive. Here's a more detailed explanation for the installation of the extension based on the steps you've provided:
-
+4. 
 ### **Detailed Installation Guide**:
 
 1. **Clone or Download the Repository**:
@@ -39,11 +38,7 @@ It looks like you're sharing a Chrome extension project for automatically pausin
 5. **Using the Extension**:
    - The extension will automatically pause any YouTube videos when you switch tabs or when the tab containing YouTube loses focus.
    - No further action is required once installed.
-
-Certainly! Here's a more formal and concise version of the **future updates** for the **YouTube Auto Pause Chrome Extension**:
-
 ---
-
 ### **Planned Future Updates**:
 
 1. **Customizable Pause Delay**: Allow users to adjust the delay before pausing a video when switching tabs.
@@ -61,7 +56,5 @@ Certainly! Here's a more formal and concise version of the **future updates** fo
 ---
 
 These updates aim to enhance the functionality, flexibility, and user experience of the extension across different platforms and use cases.
-
-If you need any adjustments or have further questions about using or customizing the extension, feel free to ask!
 
 
