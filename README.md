@@ -1,4 +1,7 @@
-![YouTube Auto Pause Logo](icons/ic128.png)
+![Screenshot 2024-11-16 192845](https://github.com/user-attachments/assets/8768c276-030b-4cc4-8f2c-cda577f2c449)
+
+
+
 ### **YouTube Auto Pause Chrome Extension**
 
 This Chrome extension automatically pauses YouTube videos when you switch tabs or when the YouTube tab loses focus. It helps save resources and reduce distractions by pausing videos when you're not actively watching.
